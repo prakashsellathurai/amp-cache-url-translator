@@ -7,9 +7,9 @@ When possible, the Google AMP Cache will create a subdomain for each AMP documen
 
 You can use this URL calculator to convert an URL into an AMP cache version:
 
-<div>
-<amp-iframe title="AMP Cache tool" height="104" layout="fixed-height" sandbox="allow-scripts" src="https://amp.dev/static/samples/files/amp-url-converter.html?url=https://amp.dev/index.amp.html">
-  <div placeholder></div>
-</amp-iframe>
-</div>
+
+
+<iframe  src="https://amp.dev/static/samples/files/amp-url-converter.html?url=https://amp.dev/index.amp.html">
+ 
+</iframe>
 
