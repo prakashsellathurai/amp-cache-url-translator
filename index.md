@@ -9,7 +9,7 @@ You can use this URL calculator to convert an URL into an AMP cache version:
 
 
 
-<iframe  src="https://amp.dev/static/samples/files/amp-url-converter.html?url=https://amp.dev/index.amp.html">
+<iframe  src="https://amp.dev/static/samples/files/amp-url-converter.html?url=https://amp.dev/index.amp.html" width: calc(100% - 1px);>
  
 </iframe>
 
